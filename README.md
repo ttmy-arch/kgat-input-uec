@@ -11,7 +11,7 @@ The input datasets for KGAT-pytorch: https://github.com/LunaBlack/KGAT-pytorch
 ##  Usage
 1. Download this datasets
 2. Clone https://github.com/LunaBlack/KGAT-pytorch
-3. Replace ```KGAT-pytorch/datasets``` with  ```kgat-input/datasets```
+3. Replace ```KGAT-pytorch/datasets``` with  ```kgat-input-uec/datasets```
 4. Run KGAT for recommendation
 
 ## Others
